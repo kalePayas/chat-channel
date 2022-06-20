@@ -8,12 +8,17 @@
 - Create and Activate virtual environment
 	> ### Windows
 	>> `python -m venv venv`
+	>> 
 	>> Creates a virtual environment.
+	>> 
 	>> `venv\Scripts\activate`
 	> ### Linux
 	>> `pip install virtualenv`
+	>> 
 	>> `virtualenv venv`
+	>> 
 	>> Creates a virtual environment.
+	>> 
 	>> `source venv\bin/activate`
 - Install Dependencies
 	> `pip install python-dotenv`
