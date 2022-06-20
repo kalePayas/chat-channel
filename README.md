@@ -3,7 +3,7 @@
 
 ###  Requirements
 - Python ( 3.9 + )
-
+---
 ### Setup
 - Create and Activate virtual environment
 	> ### Windows
@@ -17,6 +17,7 @@
 	>> `source venv\bin/activate`
 - Install Dependencies
 	> `pip install python-dotenv`
+---
 ### How to Start
 - Without any modification, this project will start locally(127.0.0.1) at PORT(33000)
 1. Terminal 1
