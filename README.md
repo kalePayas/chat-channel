@@ -26,7 +26,7 @@
 	> `python Client.py`
 	A new window will pop up and insert the name.
 
-- To make new Clients Repeat Step 2 
+- To make multiple Clients Repeat Step 2 
 - To exit after chatting : Type `{quit}` and send
 ---
 ### Issues
